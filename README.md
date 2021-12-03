@@ -13,3 +13,12 @@ HSE Bioinformatics Minor 2021-2022 HW-3: Gene expression
 ![fastqc_per_sequence_quality_scores_plot (2)](https://user-images.githubusercontent.com/60008375/144599623-ad5ce9fa-c6aa-47bc-bf41-b4acc9f37506.png)
 ![fastqc_per_sequence_gc_content_plot (2)](https://user-images.githubusercontent.com/60008375/144599628-71ed2139-e9e0-44d2-8df8-971254ffc901.png)
 ![fastqc_per_base_sequence_quality_plot (2)](https://user-images.githubusercontent.com/60008375/144599634-7d5429fe-aed4-4eea-8297-cf915fa487fa.png)
+
+**MA plot**
+
+![Screenshot (1533)](https://user-images.githubusercontent.com/60008375/144666629-9e5d063f-183c-4441-9833-b93fe9ecaf06.png)
+
+**Тепловые карты**
+
+![Screenshot (1534)](https://user-images.githubusercontent.com/60008375/144666643-8b51f4c6-3eda-49f7-9433-394d28aede97.png)
+![Screenshot (1535)](https://user-images.githubusercontent.com/60008375/144666647-40694076-89bd-499b-8dca-e03aac3d7bb9.png)
