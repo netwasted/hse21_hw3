@@ -33,3 +33,9 @@ SRR3414631 | reprogramming | 24244069 | 23547686 (97.13%) | 20928945 (86.33%) | 
 
 ![Screenshot (1534)](https://user-images.githubusercontent.com/60008375/144666643-8b51f4c6-3eda-49f7-9433-394d28aede97.png)
 ![Screenshot (1535)](https://user-images.githubusercontent.com/60008375/144666647-40694076-89bd-499b-8dca-e03aac3d7bb9.png)
+
+**Для нескольких генов, которые наиболее значимо поменяли свою экспрессию -- графики со значениями "Normalized counts" в контрольных и перепрограммированных образцах**
+
+![Screenshot (1536)](https://user-images.githubusercontent.com/60008375/144671942-4488e204-9d3b-40ac-b445-5d05d6bd2400.png)
+![Screenshot (1537)](https://user-images.githubusercontent.com/60008375/144671951-6a013b23-cde9-4fda-9a65-dd900ea51175.png)
+![Screenshot (1538)](https://user-images.githubusercontent.com/60008375/144671958-f9acf4f3-5685-48d9-81a9-60008b1eaf3e.png)
