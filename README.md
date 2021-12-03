@@ -3,7 +3,7 @@ HSE Bioinformatics Minor 2021-2022 HW-3: Gene expression
 
 [Ссылка на Google Colab](https://colab.research.google.com/drive/1iVs4QMeTIWgSyf6KHaZkczPIe4mXY9CT?usp=sharing)
 
-Статистика из MultiQC:
+**Статистика из MultiQC:**
 
 ![Screenshot (1529)](https://user-images.githubusercontent.com/60008375/144599592-981963bd-f07d-4071-99ea-670c89dd35ac.png)
 ![fastqc_sequence_counts_plot (2)](https://user-images.githubusercontent.com/60008375/144599613-db4b35bd-42b4-4796-8db1-2b020ff908a8.png)
